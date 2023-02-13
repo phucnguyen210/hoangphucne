@@ -1,0 +1,8 @@
+
+public class NguyenHuyHoangPhuc_App {
+
+	public static void main(String[] args) {
+		System.out.println("Nguyen Huy Hoang Phuc hoc java");
+	}
+
+}
